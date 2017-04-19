@@ -32,6 +32,7 @@ values."
    dotspacemacs-configuration-layers
    '(
      sql
+     html
      python
      csv
      ;; ----------------------------------------------------------------
