@@ -25,5 +25,5 @@ URxvt.font: xft:Ubuntu Mono:size=10
 URxvt.scrollBar: false
 
 ! Transparent
-urxvt*transparent: true
-urxvt*shading: 30
+! urxvt*transparent: true
+! urxvt*shading: 30
